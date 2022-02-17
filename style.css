@@ -382,13 +382,16 @@ section .title::after{
 /* portfolio section styling */
 .portfolio{
     color:#fff;
-    background: rgba(15, 227, 255, 0.884);
+    
+    background-image: url(images/code_letters_screen_blur_colorful_136706_1920x1080.jpg);
+    background-attachment: fixed;
+    background-position: bottom;   
 }
 .portfolio .title::before{
     background: #fff;
 }
 .portfolio .title::after{
-    background: rgba(15, 227, 255, 0.884);
+    
     content: "what i did";
 }
 .portfolio .carousel .card{
@@ -418,10 +421,10 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 .portfolio .carousel .card img{
-    height: 150px;
-    width: 150px;
+    height: 400px;
+    width: 800px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 5%;
     border: 5px solid crimson;
     transition: all 0.1s ease;
 }
@@ -757,4 +760,10 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+
+    .portfolio .carousel .card img{
+        height: 150px;
+        width: 300px;
+    }
 }
+
