@@ -382,10 +382,9 @@ section .title::after{
 /* portfolio section styling */
 .portfolio{
     color:#fff;
-    
-    background-image: url(images/code_letters_screen_blur_colorful_136706_1920x1080.jpg);
+    background-image: url(images/port.jpg);
     background-attachment: fixed;
-    background-position: bottom;   
+    background-position: bottom;
 }
 .portfolio .title::before{
     background: #fff;
@@ -395,7 +394,7 @@ section .title::after{
     content: "what i did";
 }
 .portfolio .carousel .card{
-    background: #222;
+    background: #222222;
     border-radius: 6px;
     padding: 25px 35px;
     text-align: center;
@@ -422,9 +421,9 @@ section .title::after{
 }
 .portfolio .carousel .card img{
     height: 400px;
-    width: 800px;
+    width: 1050px;
     object-fit: cover;
-    border-radius: 5%;
+    border-radius: 3%;
     border: 5px solid #04aa6d;
     transition: all 0.1s ease;
 }
