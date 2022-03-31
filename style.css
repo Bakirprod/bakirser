@@ -374,6 +374,9 @@ section .title::after{
 .skills-content .right .java::before{
     width: 80%;
 }
+.skills-content .right .PHP::before{
+    width: 70%;
+}
 .skills-content .right .mysql::before{
     width: 70%;
 }
