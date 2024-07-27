@@ -9,4 +9,4 @@ My website portfolio
 ![alt text](https://github.com/Bakirprod/bakirser/blob/main/Portfolio_mobile.png)
 
 ## Author
-* Bakir Productions (https://www.youtube.com/channel/UCIsSWttukWnswT5AW-7ECZQ)
+* Bakir Productions (https://www.youtube.com/c/BakirProductions)
